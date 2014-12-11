@@ -1,4 +1,5 @@
 
 <?php
-rename_function('mysql_connect', 'debug_mysql_connect' );
+$input_array = array("FirSt" => 1, "SecOnd" => 4);
+print_r(array_change_key_case($input_array, CASE_UPPER));
 ?>
