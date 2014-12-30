@@ -1,7 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: lict
- * Date: 12/11/14
- * Time: 6:08 AM
- */ 
+
+<html>
+
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+
+</html>
